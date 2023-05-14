@@ -123,7 +123,7 @@ vara[2] = new Vara(
       fontSize: fontSize.small
     },
     {
-      text: "Proud of You Icil             ~Engel",
+      text: "Proud of You icil             ~Engel",
       y: -68,
       color: "#B87333",
       x: posX,
