@@ -35,7 +35,7 @@ vara[0] = new Vara(
       text: " Your hard work has paid off and you've accomplished a great milestone. As you move forward, keep in mind the knowledge and skills you've gained. ",
       id: "sphinx",
       x: posX,
-      delay: 5000,
+      delay: 3000,
       duration: 20000,
       fontSize: fontSize.small
     },
